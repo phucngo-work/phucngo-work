@@ -1,6 +1,6 @@
-![My stats](https://github-readme-stats.vercel.app/api?username=phucngo2&show_icons=true&count_private=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=phucngo2&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucngo2&layout=compact)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucngo2&layout=compact&theme=tokyonight)
 
 <!--
 **phucngo2/phucngo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
