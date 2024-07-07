@@ -35,7 +35,7 @@ I also have a deep passion for Japanese culture ⛩️
 
 ## ⭐ Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=phucngo2&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Stats" height="190">
+  <img src="https://github-readme-stats.vercel.app/api?username=phucngo2&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" alt="Stats" height="190">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucngo2&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Languages" height="190">
 </p>
 
