@@ -1,9 +1,13 @@
 # Hello, 世界! 🌠
-**Hi there** 👋 I'm a developer enthusiastic about coding and building fun applications.
+Hi there 👋 I'm a developer enthusiastic about building fun applications, but life has me coding for sustenance 🌽
 
 I also have a deep passion for Japanese culture ⛩️
-
 > 日本語は難しいですが、面白いです！ 🐧
+
+<div align="left">
+  <img src="https://github.com/phucngo2/phucngo2/assets/85348631/90c90933-e7f4-4cfc-8384-a5bf1e81c927" alt="Minato Baqua Cat" width="320">
+</div>
+
 ## 🛠️ My Favourite Tools
 ### Programming languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
