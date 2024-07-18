@@ -5,7 +5,7 @@ I also have a deep passion for Japanese culture ⛩️
 > 日本語は難しいですが、面白いです！ 🐧
 
 <div align="left">
-  <img src="https://github.com/phucngo2/phucngo2/assets/85348631/90c90933-e7f4-4cfc-8384-a5bf1e81c927" alt="Minato Baqua Cat" width="320">
+  <img src="https://github.com/user-attachments/assets/8072481e-96b6-4cc3-8d77-58eb6331e97a" alt="Nun" width="320">
 </div>
 
 ## 🛠️ My Favourite Tools
@@ -71,4 +71,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,tailwind,docker,github)](https://skillicons.dev)
 
 <img src="https://github-readme-stats.vercel.app/api?username=phucngo2&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" alt="Stats" height="190">
+
+<img src="https://github.com/phucngo2/phucngo2/assets/85348631/90c90933-e7f4-4cfc-8384-a5bf1e81c927" alt="Minato Baqua Cat" width="320">
 -->
